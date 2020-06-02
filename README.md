@@ -10,5 +10,5 @@ Objetivo de aprender melhor sobre o ReactJS. Fazer uma aplicação bem completa 
   - Salvar no Storage
   - Estilos
   
-  - Para instalar as dependências é utilizado o comando 'yarn'
-  - Para startar a aplicação: 'yarn start'
+- Para instalar as dependências é utilizado o comando 'yarn'
+- Para startar a aplicação: 'yarn start'
